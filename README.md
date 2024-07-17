@@ -50,22 +50,6 @@ I worked on this project by following the Codebasics PowerBi Course.
 - Distributors
 - Consumer
 
-### Questions to ask before starting with dashboard
-
-- What is the objective of building this PowerBi dashboard?
-- In what terms the success of this project will be measured?
-- What will be time dead-line of the project?
-- do the stakeholders expecting pre-view before the actual release?
-- What are all the hopes stakeholders have out of this project?
-- what are all fears the stakeholder have in terms of building this dashboard?
-- Who are all will be using this dashboard and for what purpose?
-- what are all expectation the stakeholders have, by the completion of this project?
-- What can go wrong while building this project?
-- what are all the resources/ data needed to build this dashboard?
-- is there any inputs from stakeholders in terms of design and views of the dashboard?
-
-After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
-
 ## Importing data into PowerBi
 
 - As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
