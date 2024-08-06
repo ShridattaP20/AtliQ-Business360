@@ -6,6 +6,8 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course.
 
+Live Dashboard Link: [Live-Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDcyYTVlODktYjNlNy00MzZkLWI1MzUtNjAzODIzMzFkYWQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Tech stacks
 
 - SQL
